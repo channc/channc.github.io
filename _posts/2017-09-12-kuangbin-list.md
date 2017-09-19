@@ -5,6 +5,7 @@ date:   2017-09-12 21:01:45 +0800
 categories: share
 ---
 
+做完这些专题就算入门了，加油骚年
 
 ```
 专题一 简单搜索 
@@ -257,32 +258,33 @@ HDU 4507 吉哥系列故事――恨7不成妻
 SPOJ BALNUM Balanced Numbers
 
 专题十六 KMP & 扩展KMP & Manacher
-√HDU 1711 Number Sequence
-√HDU 1686 Oulipo
-√HDU 2087 剪花布条
-√HDU 3746 Cyclic Nacklace
-√HDU 1358 Period
-√HUST 1010 The Minimum Length
-√POJ 2406 Power Strings
-√POJ 2752 Seek the Name, Seek the Fame
-√POJ 3080 Blue Jeans
-√HDU 2594 Simpsons’ Hidden Talents
-√HDU 3336 Count the string
+√ HDU 1711 Number Sequence
+√ HDU 1686 Oulipo
+√ HDU 2087 剪花布条
+√ HDU 3746 Cyclic Nacklace
+√ HDU 1358 Period
+√ HUST 1010 The Minimum Length
+√ POJ 2406 Power Strings
+√ POJ 2752 Seek the Name, Seek the Fame
+√ POJ 3080 Blue Jeans
+√ HDU 2594 Simpsons’ Hidden Talents
+√ HDU 3336 Count the string
 HDU 4300 Clairewd’s message
 HDU 1238 Substrings
 HDU 2328 Corporate Identity
-√HDU 3374 String Problem
-√HDU 2609 How many
-√FZU 1901 Period II
+√ HDU 3374 String Problem
+√ HDU 2609 How many
+√ FZU 1901 Period II
 POJ 3746 Teacher YYF
 HDU 3613 Best Reward
 POJ 3376 Finding Palindromes
-√POJ 3974 Palindrome
-√HDU 4513 吉哥系列故事――完美队形II
+√ POJ 3974 Palindrome
+√ HDU 4513 吉哥系列故事――完美队形II
 HDU 3294 Girls' research
-√HDU 3068 最长回文
+√ HDU 3068 最长回文
 HDU 4847 Wow! Such Doge!
-√HDU 4763 Theme Section
+√ HDU 4763 Theme Section
+
 专题十七 AC自动机
 HDU 2222 Keywords Search
 HDU 2896 病毒侵袭
