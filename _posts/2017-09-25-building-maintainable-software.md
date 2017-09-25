@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "天干物燥，小心火烛"
+title:  "《代码不朽  编写可维护软件的10大要则》笔记"
 date:   2017-08-10 17:27:45 +0800
 categories: share
 ---
